@@ -1,6 +1,4 @@
-# Agentic AI with LangGraph
-
-A comprehensive repository for learning and building **Agentic AI**, **RAG (Retrieval-Augmented Generation)**, and **Multi-Agent Systems** using modern AI frameworks such as LangGraph, LangChain, CrewAI, vector databases, and foundation models.
+### RAG (Retrieval-Augmented Generation)
 
 ---
 
